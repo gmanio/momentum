@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/local/bin/node /Users/a1100490/.npm-global/bin/yarn start
+
+PATH: 
+  /Users/a1100490/.npm-global/bin:/Users/a1100490/.npm-global/lib:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/sbin:/Applications/Wireshark.app/Contents/MacOS
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.4
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/a1100490/IdeaProjects/momentum"
+      at new MessageError (/Users/a1100490/.npm-global/lib/node_modules/yarn/lib/cli.js:186:110)
+      at /Users/a1100490/.npm-global/lib/node_modules/yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/Users/a1100490/.npm-global/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /Users/a1100490/.npm-global/lib/node_modules/yarn/lib/cli.js:109:13
+      at <anonymous>
